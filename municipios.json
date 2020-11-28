@@ -1,0 +1,92 @@
+[  
+  {
+    "id": 1,
+    "nombre": "Acala",
+    "datos": [
+        {
+            "ano": "2012",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/Acala.pdf"
+        },
+        {
+            "ano": "2011",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2011/Decreto.pdf"
+        }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Tuxtla Gutierrez",
+    "datos": [
+        {
+            "ano": "2012",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/tuxtlaGuierrez.pdf"
+        },
+        {
+            "ano": "2013",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2013/tuxtlaGuierrez.pdf"
+        },
+        {
+            "ano": "2014",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2014/tuxtlaGuierrez.pdf"
+        },
+        {
+            "ano": "2015",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2015/tuxtlaGuierrez.pdf"
+        }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Comitan",
+    "datos": [
+        {
+            "ano": "2012",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/Comitan.pdf"
+        },
+        {
+            "ano": "2013",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2013/Comitan.pdf"
+        }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Palenque",
+    "datos": [
+        {
+            "ano": "2012",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/palenque.pdf"
+        },
+        {
+            "ano": "2013",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2013/palenque.pdf"
+        }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Tapachula",
+    "datos": [
+        {
+            "ano": "2012",
+            "ruta": "0",
+            "url" : "marco-juridico/Municipal/informacion/Ley-Ingreso/2012/Tapachula.pdf"
+        },
+        {
+            "ano": "2013",
+            "ruta": "1",
+            "url" : "http://www.sec-gobiernochiapas.gob.mx/secgegob/archivos/descargas.php?f=LEY%20DE%20INGRESOS%20DE%20TAPILULA.pdf"
+        }
+    ]
+  }
+]
