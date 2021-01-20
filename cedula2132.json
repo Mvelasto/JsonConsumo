@@ -1,0 +1,65 @@
+{
+  "nombre": "Liberación de cheques y/o comprobantes de nómina electrónica, retenidos a custodia",
+  "idtiposolicitud": "Trámite",
+  "modalidad": {
+    "tipo": "Presencial",
+    "telefono": null,
+    "url": null
+  },
+  "fundamento_legal": "<p>\r\n\tNormatividad Financiera del Estado de Chiapas, art&iacute;culo 14, fracci&oacute;n I, inciso g), fraci&oacute;n II, incisos d) y e).</p>\r\n",
+  "descripcion": "<p style=\"text-align: justify;\">\r\n\tConsiste en la liberaci&oacute;n de cheques y comprobantes de n&oacute;mina electr&oacute;nica de los servidores p&uacute;blicos que han sido retenidos a custodia por las dependencias, entidades y Coordinacion General de Recursos Humanos.</p>\r\n",
+  "casos_puede": "<p>\r\n\tPara que la Tesorer&iacute;a &Uacute;nica realice la liberaci&oacute;n del pago al servidor p&uacute;blico.</p>\r\n",
+  "indicaciones": {
+    "intro_indicacion": "Estimado usuario, con el fin de contribuir a realizar con oportunidad su trámite, considere las indicaciones siguientes:",
+    "indicacion": "<div style=\"text-align: justify;\">\r\n\tPresentar oficio de solicitud de liberaci&oacute;n de cheques y/o comprobantes de n&oacute;mina electr&oacute;nica, dirigido al titular de la Tesorer&iacute;a &Uacute;nica, en la ventanilla del Departamento de N&oacute;minas.</div>\r\n"
+  },
+  "requisitos": "\n\t\t\t<table border=\"1\" style=\"font-size:60%\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr style=\"background-color: #F0F0F0;\">\n\t\t\t\t\t\t<td align=\"center\"><br>Nombre</td>\n\t\t\t\t\t\t<td align=\"center\">Se necesita los <br>siguientes criterios: <br>-Firma<br>-Validación<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero</td>\n\t\t\t\t\t\t<td align=\"center\">Persona, empresa,<br>sujeto obligado o <br>instancia que lo emite</td>\n\t\t\t\t\t\t<td align=\"center\">Realizaci&oacute;n de tr&aacute;mites o servicios adicionales (Si/No)\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Adicional se necesita alguno de los <br>siguientes criterios: <br>-Firma<br>Validación/Act.<br>-Certificación<br>-Autorización<br>-Visto Bueno de un tercero\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Persona o <br>empresa que lo emite\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. que deber&aacute; conservar con motivo del tr&aacute;mite o servicio:<br>-Acreditación<br>-Inspección<br>-Verificación \n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Inf. adicional acerca del requisito\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td align=\"center\">Original</td>\n\t\t\t\t\t\t<td align=\"center\">Copias</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t</table>\n\t\t\t<tbody>\n\t\t\t\t\t<tr><td align=\"justify\"><br><br>Oficio de solicitud de liberación de cheques y/o comprobantes de nómina electrónica.</td>\n\t\t\t\t\t<td><br><br>&bull;Firma<br></td>\n\t\t\t\t\t<td align=\"justify\"><br><br>Titular de la Unidad de Apoyo Administrativo o equivalente y/o Coordinacion General de Recursos Humanos de la Secretaria de Hacienda</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br></td>\n\t\t\t\t\t<td><br><br>\n\t\t\t\t\t</td>\n\t\t\t\t\t<td align=\"justify\"><br><br><p>\r\n\tDirigido al titular de la Tesorer&iacute;a &Uacute;nica.</p>\r\n<ul>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tNormatividad Financiera del Estado deChiapas, art&iacute;culo 14, fracci&oacute;n II, inciso d).</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tRequisito Nuevo</li>\r\n\t<li style=\"text-align: justify;\">\r\n\t\tContar con el requisito para realizar la liberaci&oacute;n del cheque y/o comprobante de n&oacute;mina electr&oacute;nica.</li>\r\n</ul>\r\n</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br><img src=\"../img/Ok_vd.png\">\t</td>\n\t\t\t\t\t<td align=\"center\"><br><br><br>1</td></tr>\t\n\t\t\t</tbody>\n\t\t",
+  "formatos": {
+    "formatos": "No aplica"
+  },
+  "se_requiere_Inspección": {
+    "requerido": "SI",
+    "Inspección": "<h4>Objetivo de la inspecci&oacute;n o verificaci&oacute;n del Trámite:</h4>\t\t\t\t\t\t\t\t <br>Que exista la retencion del trámite a liberar"
+  },
+  "donde_acudir": {
+    "listado": [
+      {
+        "Organo": "Departamento de Nóminas",
+        "Funcionario": "C. P. Estelfa Ventura Zavala",
+        "domicilio": "Palacio de Gobierno, Planta Baja",
+        "cp": "29000",
+        "municipio": "Tuxtla Gutiérrez",
+        "estado": "Chiapas",
+        "telefonodirecto": "(961) 61-1 43 51 ",
+        "conmutador": "",
+        "Correo": "eventura@haciendachiapas.gob.mx"
+      }
+    ]
+  },
+  "plazo": "20 minutos.",
+  "monto": "Gratuito",
+  "forma_costo": "No aplica.",
+  "tabla_costo": "<p>\r\n\tNo aplica.</p>\r\n",
+  "Realizar_pago": "No aplica.",
+  "vigencia_solicitud": "Todo el año durante los días y horarios establecidos.",
+  "vigencia": "Cheque o comprobante de nómina electrónica.",
+  "vigencia_resolucion": "Para el caso del cheque 180 dias naturales de acuerdo a la Ley General de Títulos y Operaciones de Crédito, artículo 192.",
+  "horario": "8:30 a.m. a 3:30 p.m. los días jueves.",
+  "quejas_y_sugerencias": {
+    "intro": "Estimado usuario si usted tiene una inconformidad u opini&oacute;n por el servicio recibido, le invitamos a manifestar su queja o sugerencia, ya que con ello, contribuye a que esta instituci&oacute;n le brinde un mejor servicio.\nEstas son las alternativas:",
+    "listado_organos": [
+      {
+        "Organo": "Dirección de Control Financiero",
+        "Funcionario": "Dra. Karina Sánchez de los Santos",
+        "domicilio": "Boulevard Andrés Serra Rojas, No. 1090, Torre Chiapas, Piso.12",
+        "cp": "29045",
+        "telefonodirecto": "",
+        "conmutador": "(961) 69 1 - 40 - 40, 69 1 -40 -43 Ext. 65863"
+      }
+    ],
+    "final": "<br>&bull; Acuda con el Lic. Wilsom Espinosa Aguilar, en el Departamento de Ética y Prevención de Conflicto de la Dirección de Evolución Patrimonial, Conflicto de Interés y Ética de la Secretaría de la Honestidad y Función Pública, sita en Boulevard Los Castillos No. 410, en el Fraccionamiento Montes Azules en la ciudad de Tuxtla Gutiérrez, Chiapas. O bien, si lo prefiere comuníquese al teléfono: 800 900 9000 lada sin costo o bien (961) 12 1 59 70 y (961) 8 75 30 extensión 22501. <br><br> En internet a través del Sistema Electrónico QuejaNet, en la dirección electrónica siguiente:\n<a href=\"http://shyfpchiapas.gob.mx/servicios/quejanetformulario\" target=\"_blank\">http://shyfpchiapas.gob.mx/servicios/quejanetformulario</a> \nRequisite y deposite el formulario ubicado en los buzones instalados en dependencias y entidades de la Administración Pública Estatal o envíe un correo a quejanet@shyfpchiapas.gob.mx"
+  },
+  "normatividad": "<p>\r\n\tNo aplica.</p>\r\n",
+  "adicionalinfo": "<p>\r\n\tNo aplica.</p>\r\n",
+  "criterios": "<p style=\"text-align: justify;\">\r\n\tSe har&aacute; una revisi&oacute;n en el registro de firmas de titulares de pago y habilitados, a fin de acreditar su identidad, en caso de no acreditarla, el tr&aacute;mite no se realizar&aacute;.</p>\r\n"
+}
