@@ -1,0 +1,86 @@
+[
+    {
+        "Lic. Noani Morales Alfaro": {
+            "organos_padre": [
+                {
+                    "IDOrgano": 220,
+                    "IDPadre": 43,
+                    "Organo": "Oficina del C. Secretario",
+                    "Funcionario": "",
+                    "domicilio": "",
+                    "colonia": "",
+                    "cp": "",
+                    "municipio": "Ciudad de México",
+                    "conmutador": "",
+                    "Correo": "",
+                    "web": ""
+                },
+                {
+                    "IDPadre": 0,
+                    "IDOrgano": 43,
+                    "Organo": "Secretaría de Hacienda",
+                    "domicilio": "Boulevard Andrés Serra Rojas No. 1090, Torre Chiapas",
+                    "colonia": "Col. El Retiro",
+                    "cp": "29045",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(01 961)69 1-40 -40, 69  1-40 -20,  69 1 -40 -43",
+                    "web": "http://www.haciendachiapas.gob.mx",
+                    "Correo": "corporativo@haciendachiapas.gob.mx",
+                    "FunciIDPadre": 43,
+                    "FunciIDOrgano": 1985,
+                    "Funcionario": "Dr. Javier Jiménez Jiménez",
+                    "FunciOrgano": "Secretario",
+                    "FunciConmutador": "(01 961) 61 8 72 00- 69 1 40 43 Ext. 65015",
+                    "FunciCorreo": "jjimenez@haciendachiapas.gob.mx",
+                    "FunciWeb": "",
+                    "FunciTelefonoDirecto": "",
+                    "FunciDomicilio": "",
+                    "FunciColonia": "Centro",
+                    "FunciTitular": "1"
+                }
+            ],
+            "funcionario_seleccionado": {
+                "IDOrgano": 103110,
+                "IDPadre": 220,
+                "Organo": "Unidad de Archivo",
+                "Funcionario": "Lic. Noani Morales Alfaro",
+                "domicilio": "Carretera Juan Crispín,  Km 1.3, Bodega No. 7, referencia Bodega SAHUAYO",
+                "colonia": "Col. Plan de Ayala",
+                "cp": "29020",
+                "municipio": "Tuxtla Gutiérrez",
+                "conmutador": "(961) 61 6 94 03",
+                "Correo": "nmoralesa@haciendachiapas.gob.mx",
+                "web": null,
+                "Titular": "0"
+            },
+            "organos_hijo": [
+                {
+                    "IDOrgano": 103111,
+                    "IDPadre": 103110,
+                    "Organo": "Área de Normatividad Archivística",
+                    "Funcionario": "Lic. Eduardo Mandujano Torres",
+                    "domicilio": "Carretera Juan Crispín,  Km 1.3, Bodega No. 7, referencia Bodega SAHUAYO",
+                    "colonia": "Col. Plan de Ayala",
+                    "cp": "29020",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(961) 61 6 94 03",
+                    "Correo": "emandujano@haciendachiapas.gob.mx",
+                    "web": null
+                },
+                {
+                    "IDOrgano": 101931,
+                    "IDPadre": 103110,
+                    "Organo": "Área de Control de Documentos",
+                    "Funcionario": "",
+                    "domicilio": "Carretera Juan Crispín,  Km 1.3, Bodega No. 7, referencia Bodega SAHUAYO",
+                    "colonia": "Col. Plan de Ayala",
+                    "cp": "29020",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "",
+                    "Correo": "",
+                    "web": null
+                }
+            ]
+        }
+    }
+]
