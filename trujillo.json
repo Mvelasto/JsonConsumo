@@ -1,0 +1,99 @@
+[
+    {
+        "C.P. Rocío Liliana Ovando Trujillo": {
+            "organos_padre": [
+                {
+                    "IDOrgano": 223,
+                    "IDPadre": 43,
+                    "Organo": "Unidades de Apoyo",
+                    "Funcionario": " ",
+                    "domicilio": null,
+                    "colonia": null,
+                    "cp": null,
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": null,
+                    "Correo": "",
+                    "web": ""
+                },
+                {
+                    "IDPadre": 0,
+                    "IDOrgano": 43,
+                    "Organo": "Secretaría de Hacienda",
+                    "domicilio": "Boulevard Andrés Serra Rojas No. 1090, Torre Chiapas",
+                    "colonia": "Col. El Retiro",
+                    "cp": "29045",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(01 961)69 1-40 -40, 69  1-40 -20,  69 1 -40 -43",
+                    "web": "http://www.haciendachiapas.gob.mx",
+                    "Correo": "corporativo@haciendachiapas.gob.mx",
+                    "FunciIDPadre": 43,
+                    "FunciIDOrgano": 1985,
+                    "Funcionario": "Dr. Javier Jiménez Jiménez",
+                    "FunciOrgano": "Secretario",
+                    "FunciConmutador": "(01 961) 61 8 72 00- 69 1 40 43 Ext. 65015",
+                    "FunciCorreo": "jjimenez@haciendachiapas.gob.mx",
+                    "FunciWeb": "",
+                    "FunciTelefonoDirecto": "",
+                    "FunciDomicilio": "",
+                    "FunciColonia": "Centro",
+                    "FunciTitular": "1"
+                }
+            ],
+            "funcionario_seleccionado": {
+                "IDOrgano": 227,
+                "IDPadre": 223,
+                "Organo": "Unidad de Apoyo Administrativo",
+                "Funcionario": "C.P. Rocío Liliana Ovando Trujillo",
+                "domicilio": "Boulevard Andrés Serra Rojas, No. 1090, Torre Chiapas, Piso. 4",
+                "colonia": "Col. El Retiro",
+                "cp": "29045",
+                "municipio": "Tuxtla Gutiérrez",
+                "conmutador": "(961) 69 1 - 40 - 43 Ext. 65537, 65368",
+                "Correo": "rltrujillo@haciendachiapas.gob.mx",
+                "web": "",
+                "Titular": "0"
+            },
+            "organos_hijo": [
+                {
+                    "IDOrgano": 607,
+                    "IDPadre": 227,
+                    "Organo": "Área de Recursos Humanos",
+                    "Funcionario": "L.A.E. Alberto Espinosa Carpio",
+                    "domicilio": "Boulevard Andrés Serra Rojas, No. 1090, Torre Chiapas, Piso. 4",
+                    "colonia": "Col. El Retiro",
+                    "cp": "29045",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(961) 69 1 - 40 - 43 Ext. 65392",
+                    "Correo": "aespinosac@haciendachiapas.gob.mx",
+                    "web": ""
+                },
+                {
+                    "IDOrgano": 609,
+                    "IDPadre": 227,
+                    "Organo": "Área de Recursos Financieros y Contabilidad",
+                    "Funcionario": "C.P. Enrique Hernández Gómez",
+                    "domicilio": "Boulevard Andrés Serra Rojas, No. 1090, Torre Chiapas, Piso. 4",
+                    "colonia": "Col. El Retiro",
+                    "cp": "29045",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(961)  69 1 - 40 - 43 Ext. 65333",
+                    "Correo": "ehernandez@haciendachiapas.gob.mx",
+                    "web": ""
+                },
+                {
+                    "IDOrgano": 612,
+                    "IDPadre": 227,
+                    "Organo": "Área de Recursos Materiales y Servicios Generales",
+                    "Funcionario": "C.P. Edmundo Javier Mayorga Enciso",
+                    "domicilio": "Boulevard Andrés Serra Rojas, No. 1090, Torre Chiapas, Piso. 4",
+                    "colonia": "Col. El Retiro",
+                    "cp": "29045",
+                    "municipio": "Tuxtla Gutiérrez",
+                    "conmutador": "(961) 69 1 - 40 - 43 Ext. 65369",
+                    "Correo": "",
+                    "web": ""
+                }
+            ]
+        }
+    }
+]
