@@ -2,7 +2,7 @@
   {
     "idarticulo": 11,
     "fecha": "04 Feb 2021 12:53:16:593",
-    "idclasificacion": 2,
+    "idclasificacion": 1,
     "clasificacion": null,
     "fecha_articulo": "01/01/2021",
     "nocontrol": null,
@@ -47,7 +47,7 @@
   {
     "idarticulo": 6,
     "fecha": "04 Feb 2021 12:53:16:593",
-    "idclasificacion": 2,
+    "idclasificacion": 1,
     "clasificacion": null,
     "fecha_articulo": "10/11/2020",
     "nocontrol": null,
@@ -83,7 +83,7 @@
   {
     "idarticulo": 2,
     "fecha": "04 Feb 2021 12:53:16:593",
-    "idclasificacion": 2,
+    "idclasificacion": 1,
     "clasificacion": null,
     "fecha_articulo": "02/11/2020",
     "nocontrol": null,
