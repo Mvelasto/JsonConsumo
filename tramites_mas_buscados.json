@@ -1,0 +1,74 @@
+[
+  {
+    "idservicio": "38",
+    "nombre": "Expedición de constancia de no adeudos fiscales",
+    "modalidad": "En Línea",
+    "telefono": null,
+    "url": "http://www.haciendachiapas.gob.mx",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Ingrese a la página: http://www.haciendachiapas.gob.mx"
+  },
+  {
+    "idservicio": "3135",
+    "nombre": "Aviso de fusión de los contribuyentes por Impuesto sobre Nóminas, Impuesto Sobre Hospedaje, Impuesto sobre Juegos Permitidos, Rifas, Sorteos, Loterías y Concursos, e Impuesto sobre Servidumbre de Terreno Para Obras y Trabajos de Primera Mano de Materiales Mineros",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "El trámite deberá realizarlo en la Delegación de Hacienda o Centro de Recaudación Local de la jurisdicción correspondiente a su domicilio fiscal"
+  },
+  {
+    "idservicio": "3136",
+    "nombre": "Suspensión de actividades de Impuesto sobre Hospedaje, Impuesto sobre Nóminas, Impuesto sobre Juegos Permitidos, Rifas, Sorteos, Loterías y Concursos, Impuesto sobre Servidumbre de Terreno para Obras y Trabajos de Primera Mano de Materiales Mineros",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "El trámite deberá realizarlo en la Delegación de Hacienda o Centro de Recaudación Local de la jurisdicción correspondiente a su domicilio fiscal"
+  },
+  {
+    "idservicio": "40",
+    "nombre": "Asesoría jurídico - hacendaria vía telefónica y por escrito (institucional)",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Servicio",
+    "donde_acudir": ""
+  },
+  {
+    "idservicio": "43",
+    "nombre": "Asesoría fiscal a los contribuyentes",
+    "modalidad": "En Línea",
+    "telefono": null,
+    "url": "http://www.ingresos.haciendachiapas.gob.mx/",
+    "idtiposolicitud": "Servicio",
+    "donde_acudir": "Ver el apartado \"Cómo se realiza el Trámite o Servicio\"."
+  },
+  {
+    "idservicio": "51",
+    "nombre": "Baja de placas del servicio particular",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
+  },
+  {
+    "idservicio": "62",
+    "nombre": "Declaración anual de Impuesto sobre Nóminas y/o Hospedaje vía Internet",
+    "modalidad": "En Línea",
+    "telefono": null,
+    "url": "http://www.haciendachiapas.gob.mx",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "En el portal de la Secretaría de Hacienda del Estado, en la siguiente dirección electrónica: http://www.haciendachiapas.gob.mx/"
+  },
+  {
+    "idservicio": "3144",
+    "nombre": "Apertura de establecimiento en el Régimen de Incorporación Fiscal (RIF)",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite deberá realizarlo en los Módulos de Atención a Contribuyentes en el Régimen de Incorporación Fiscal (RIF) de la jurisdicción correspondiente a su domicilio fiscal"
+  }
+]
