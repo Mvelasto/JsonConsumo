@@ -1,4 +1,31 @@
 [
+    {
+    "idservicio": "1672",
+    "nombre": "Refrendo anual de tarjeta de circulación del servicio privado",
+    "modalidad": "Presencial o En Línea",
+    "telefono": null,
+    "url": "http://www.ingresos.haciendachiapas.gob.mx/vehicular/Liquidacion_Vehicular/P_Vehicular.asp",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
+  },
+  {
+    "idservicio": "2149",
+    "nombre": "Presupuesto de alta de automóviles y camiones nuevos",
+    "modalidad": "Presencial o En Línea",
+    "telefono": null,
+    "url": "http://www.ingresos.haciendachiapas.gob.mx/presupuesto-vehicular/Presupuesto.asp",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "También lo puede realizar en el Centro de Recaudación mas cercana a su domicilio, o a través de Web, y en línea vía telefónica o E-mail."
+  },
+  {
+    "idservicio": "2126",
+    "nombre": "Refrendo anual de tarjeta de circulación por flotilla del servicio privado",
+    "modalidad": "Presencial o En Línea",
+    "telefono": null,
+    "url": "http://www.ingresos.haciendachiapas.gob.mx/vehicular/FlotillasVEH/default.asp",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
+  },
   {
     "idservicio": "38",
     "nombre": "Expedición de constancia de no adeudos fiscales",
@@ -27,15 +54,6 @@
     "donde_acudir": "El trámite deberá realizarlo en la Delegación de Hacienda o Centro de Recaudación Local de la jurisdicción correspondiente a su domicilio fiscal"
   },
   {
-    "idservicio": "40",
-    "nombre": "Asesoría jurídico - hacendaria vía telefónica y por escrito (institucional)",
-    "modalidad": "Presencial",
-    "telefono": null,
-    "url": null,
-    "idtiposolicitud": "Servicio",
-    "donde_acudir": ""
-  },
-  {
     "idservicio": "43",
     "nombre": "Asesoría fiscal a los contribuyentes",
     "modalidad": "En Línea",
@@ -61,14 +79,5 @@
     "url": "http://www.haciendachiapas.gob.mx",
     "idtiposolicitud": "Trámite",
     "donde_acudir": "En el portal de la Secretaría de Hacienda del Estado, en la siguiente dirección electrónica: http://www.haciendachiapas.gob.mx/"
-  },
-  {
-    "idservicio": "3144",
-    "nombre": "Apertura de establecimiento en el Régimen de Incorporación Fiscal (RIF)",
-    "modalidad": "Presencial",
-    "telefono": null,
-    "url": null,
-    "idtiposolicitud": "Trámite",
-    "donde_acudir": "Este trámite deberá realizarlo en los Módulos de Atención a Contribuyentes en el Régimen de Incorporación Fiscal (RIF) de la jurisdicción correspondiente a su domicilio fiscal"
   }
 ]
