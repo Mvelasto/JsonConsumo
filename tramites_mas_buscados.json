@@ -9,6 +9,51 @@
     "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
   },
   {
+    "idservicio": "1644",
+    "nombre": "Expedición de placas, calcomanías y tarjetas de circulación para automóviles, camiones,autobuses, remolques y motocicletas nuevas del servicio privado",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
+  },
+  {
+    "idservicio": "1648",
+    "nombre": "Canje de placas para automóviles, camiones, autobuses, remolques y motocicletas del servicio privado",
+    "modalidad": "Presencial o En Línea",
+    "telefono": null,
+    "url": "http://www.ingresos.haciendachiapas.gob.mx/vehicular/Liquidacion_Vehicular/P_Vehicular.asp",
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": "Este trámite también se puede realizar en los Centros de Recaudación Local."
+  },
+  {
+    "idservicio": "1653",
+    "nombre": "Expedición de placas, calcomanías y tarjeta de circulación para automóviles, camiones y autobuses usados del servicio público estatal",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": ""
+  },
+  {
+    "idservicio": "1655",
+    "nombre": "Cambio o sustitución de vehículo del Servicio Público Estatal",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": ""
+  },
+  {
+    "idservicio": "1656",
+    "nombre": "Baja de placas del servicio público estatal",
+    "modalidad": "Presencial",
+    "telefono": null,
+    "url": null,
+    "idtiposolicitud": "Trámite",
+    "donde_acudir": ""
+  },
+  {
     "idservicio": "2149",
     "nombre": "Presupuesto de alta de automóviles y camiones nuevos",
     "modalidad": "Presencial o En Línea",
