@@ -1,11 +1,16 @@
 [
     {   
         "id": 1,
-        "titulo": "Sobre el arrepentimiento, la conversión y el nuevo nacimiento",
+        "titulo": "Sobre el arrepentimiento, la conversión y el nuevo nacimiento 1/2",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-21%20at%207.36.32%20PM.ogg"
     },
     {   
         "id": 2,
+        "titulo": "La vida, la obstinación del hombre, la dureza de corazón 2/2",
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/obstinacion.ogg"
+    },
+    {   
+        "id": 3,
         "titulo": "La vida, la obstinación del hombre, la dureza de corazón",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-19%20at%209.52.03%20AM.ogg"
     }
