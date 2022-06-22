@@ -14,9 +14,16 @@
         "titulo": "La vida, la obstinación del hombre, la dureza de corazón",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-19%20at%209.52.03%20AM.ogg"
     },
-     {   
+    {   
         "id": 4,
         "titulo": "Resurrección, las personas que resucitaran con el Señor.",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/resurreccion.ogg"
-    }
+    },
+    {   
+        "id": 5,
+        "titulo": "Crucificcion y muerte de Jesus, la obra completa.",
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/crucificcion%20y%20muerte%20de%20jesus,%20la%20obra%20completa.ogg"
+    },
+    
+   
 ]
