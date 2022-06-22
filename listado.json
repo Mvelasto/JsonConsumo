@@ -23,7 +23,10 @@
         "id": 5,
         "titulo": "Crucificcion y muerte de Jesus, la obra completa.",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/crucificcion%20y%20muerte%20de%20jesus,%20la%20obra%20completa.ogg"
+    },
+    {   
+        "id": 6,
+        "titulo": "El bautismo, participar de la cena, el cristiano convertido, las maldiciones que pueden caer en nosotros al participar indignamente de la cena",
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/BAUTISMO-PARTICIPARCENA-CRISTIANOCONVERTIDO.ogg"
     }
-    
-   
 ]
