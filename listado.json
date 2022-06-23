@@ -2,36 +2,49 @@
     {   
         "id": 1,
         "titulo": "Sobre el arrepentimiento, la conversión y el nuevo nacimiento 1/2",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-21%20at%207.36.32%20PM.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-21%20at%207.36.32%20PM.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 2,
         "titulo": "Sobre el arrepentimiento, la conversión y el nuevo nacimiento 2/2",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/obstinacion.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/obstinacion.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 3,
         "titulo": "La vida, la obstinación del hombre, la dureza de corazón",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-19%20at%209.52.03%20AM.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/WhatsApp%20Ptt%202022-06-19%20at%209.52.03%20AM.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 4,
         "titulo": "Resurrección, las personas que resucitaran con el Señor.",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/resurreccion.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/resurreccion.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 5,
         "titulo": "Crucificcion y muerte de Jesus, la obra completa.",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/crucificcion%20y%20muerte%20de%20jesus,%20la%20obra%20completa.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/crucificcion%20y%20muerte%20de%20jesus,%20la%20obra%20completa.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 6,
         "titulo": "El bautismo, participar de la cena, el cristiano convertido, las maldiciones que pueden caer en nosotros al participar indignamente de la cena",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/BAUTISMO-PARTICIPARCENA-CRISTIANOCONVERTIDO.ogg"
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/BAUTISMO-PARTICIPARCENA-CRISTIANOCONVERTIDO.ogg",
+        "fecha": "22-06-2022"
     },
     {   
         "id": 7,
         "titulo": "Las luchas del creyente, Dios creo al hombre de la tierra del polvo, la vida es cíclica y el hombre forastero en el mundo, nosotros manejamos el mal y el bien, en el corazon del hombre hay eternidad porque somos como Dios, tenemos la potestad de escoger entre el bien y el mal. La carga que los angeles le pusieron al hombre, de hacerlo caer por tierra, como les paso a ellos.",
-        "url": "https://mvelasto.github.io/JsonConsumo/audios/luchas-del-creyente.ogg"
-    }
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/luchas-del-creyente.ogg",
+        "fecha": "22-06-2022"
+    },
+    {   
+        "id": 8,
+        "titulo": "La transformación del creyente, el ocio, las apetencias de la carne, invocación de espiritus al estilo de los hebreos en el desierto",
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/la-transformacion.ogg",
+        "fecha": "22-06-2022"
+    },
 ]
