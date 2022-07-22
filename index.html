@@ -40,13 +40,13 @@
 
         <div class="container mt-5 d-flex  flex-wrap" style="max-width: 1195px !important;">
             <div  v-for="(file, index) in datos" :key="index">
-                <div @click="select = {title: file.titulo, audio: file.url}" class="border shadow-sm rounded m-2 py-3 px-5" style="width:28rem;" data-toggle="modal" data-target="#staticBackdrop">
+                <div @click="select = {title: file.titulo, audio: file.url}" class="border shadow-sm rounded m-2 py-3 px-5" style="width:28rem;">
                     <h5 class="p-0 mx-0 mt-3 mb-5 Kanit"><small class="text-muted text-center"> {{file.id}} </small> {{file.titulo}}</h5>
                     <div class="d-flex justify-content-center">
-                        <!-- <audio controls>
+                        <audio controls>
                             <source :src="file.url" type="audio/ogg">
                             Your browser does not support the audio element.
-                        </audio> -->
+                        </audio>
                     </div>
                 </div>
             </div>
