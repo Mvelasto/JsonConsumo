@@ -75,5 +75,12 @@
         "descripcion": "detallando los frutos que los angeles caidos sembraron en nosotros, sus derivaciones, variantes, examinando los frutos que manifestamos",
         "url": "https://mvelasto.github.io/JsonConsumo/audios/ESCANEO.ogg",
         "fecha": "21-07-2022"
+    },
+    {   
+        "id": 12,
+        "titulo": "Lo sucio que estamos las personas",
+        "descripcion": "",
+        "url": "https://mvelasto.github.io/JsonConsumo/audios/sucio.ogg",
+        "fecha": "25-07-2022"
     }
 ]
